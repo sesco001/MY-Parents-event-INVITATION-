@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=60&pause=500&color=FF1493&center=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
+    <img src="https://files.catbox.moe/1owkid.jpg?font=Black+Ops+One&size=60&pause=500&color=FF1493&center=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
   </a>
 </h1>
 
