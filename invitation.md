@@ -11,11 +11,8 @@
 
 ## 🎈 Event Details
 
-🎤 **Event Name:** Jeeper Creeper XMD Celebration  
-📅 **Date:** August 3rd, 2025  
-📍 **Location:** Nairobi, Kenya  
-🧑‍💼 **Host:** Sir Bravin  
-💌 **Theme:** Uniting Creatives in Tech & Culture  
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Mr+and_mrs Matheka+Invites;You all+on+16th+August;As they celebrate dowry payment event+at+Nthuluni village;Machakos-county+in+kenya🌎"alt="Typing Animation">
 
 ---
 
