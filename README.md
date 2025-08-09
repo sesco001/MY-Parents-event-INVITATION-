@@ -12,9 +12,9 @@
 
 ## 🎈 Event Details
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&pause=2500&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event;At+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=5000&pause=2500&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event;At+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
+</h2>
 
 ---
 
