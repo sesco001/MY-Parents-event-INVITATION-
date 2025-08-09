@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"> <imgsrc="https://files.catbox.moe/1owkid.jpgfont=Black+Ops+One&size=60&pause=500&color=FF1493&center=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=60&pause=500&color=FF1493&center=true&vCenter=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,7 +13,8 @@
 ## 🎈 Event Details
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Mr+and_mrs Matheka+Invites;You all+on+16th+August;As they celebrate dowry payment event+at+Nthuluni village;Machakos-county+in+kenya🌎"alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event+at+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
+</h1>
 
 ---
 
@@ -60,5 +62,5 @@ To all contributors, friends, and community supporters who made this possible.
 ## 🧠 Stay Curious
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=🌟+Celebrating+My-parents+For_support!;📣+Brought+to+you+by+Makamesco+C.E.O" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=🌟+Celebrating+My+Parents+For+Support!;📣+Brought+to+you+by+Makamesco+C.E.O" alt="Typing Animation" />
 </h3>
