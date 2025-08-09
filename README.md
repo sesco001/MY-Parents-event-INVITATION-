@@ -5,10 +5,7 @@
 </h1>
 
 <p align="center">
-  <video controls playsinline width="600" style="max-width:100%; height:auto;">
-    <source src="https://files.catbox.moe/zld826.mp4" type="video/mp4">
-    Your browser does not support the video tag. <a href="https://files.catbox.moe/zld826.mp4">Download / open the video</a>.
-  </video>
+  <img src="https://files.catbox.moe/1owkid.jpg" width="300" />
 </p>
 
 ---
