@@ -13,8 +13,18 @@
 ## 🎈 Event Details
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You+All+on+16th+August+As+they+celebrate+dowry+payment+event+at+Nthuluni+village+Machakos+County+in+Kenya🌎" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event;At+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
 </h1>
+
+---
+
+## 🎊 Special Thanks
+
+To all who contributed, financially, spiritually, and in every way.
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&lines=🌟+Celebrating+My+Parents;For+Their+Endless+Support!;📣+Brought+to+you+by+Makamesco+C.E.O;🙏+GOD+BLESS+YOU" alt="Typing Animation" />
+</h3>
 
 ---
 
@@ -24,24 +34,10 @@
 - 🎶 Live music & entertainment  
 - 🍕 Food, games, and fun  
 - 🏆 Awards & community highlights  
-- 🎁 Exclusive giveaways for early guests
-
----
-
-## 🎊 Special Thanks
-
-To all who contributributed,Financially, spiritually and all support.
+- 🎁 Exclusive giveaways for early guests  
 
 ---
 
 ## 🙏 Note
 
 > This event is free and open to all. Be respectful, be kind, and most importantly — come ready to have fun!
-
----
-
-## 🧠 Stay Curious
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=🌟+Celebrating+My+Parents+For+Support!;📣+Brought+to+you+by+Makamesco+C.E.O+GOD+BLESS+YOU" alt="Typing Animation" />
-</h3>
