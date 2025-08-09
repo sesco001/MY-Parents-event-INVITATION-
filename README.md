@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" />
+  <img src="https://files.catbox.moe/1owkid.jpg" width="300" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 🎈 Event Details
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event+at+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August+As+they+celebrate+dowry+payment+event+at+Nthuluni+village_Machakos+County+in+Kenya🌎" alt="Typing Animation" />
 </h1>
 
 ---
@@ -28,28 +28,9 @@
 
 ---
 
-## 📸 Past Event Highlights
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="300" />
-  <img src="https://i.imgur.com/LyHic3i.gif" width="300" />
-</p>
-
----
-
-## 📝 RSVP or More Info
-
-<div align="center">
-  <a href="https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Event%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
-  </a>
-</div>
-
----
-
 ## 🎊 Special Thanks
 
-To all contributors, friends, and community supporters who made this possible.
+To all who contributributed,Financially, spiritually and all support.
 
 ---
 
@@ -62,5 +43,5 @@ To all contributors, friends, and community supporters who made this possible.
 ## 🧠 Stay Curious
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=🌟+Celebrating+My+Parents+For+Support!;📣+Brought+to+you+by+Makamesco+C.E.O" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=🌟+Celebrating+My+Parents+For+Support!;📣+Brought+to+you+by+Makamesco+C.E.O+GOD+BLESS+YOU" alt="Typing Animation" />
 </h3>
