@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=60&pause=500&color=FF1493&center=true&vCenter=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=70&pause=500&color=FF1493&center=true&vCenter=true&width=1000&height=150&lines=🌟+YOU'RE+INVITED!;🎉+A+SPECIAL+EVENT+IS+HERE;📆+SAVE+THE+DATE!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 ## 🎈 Event Details
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event;At+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Mr+and+Mrs+Matheka+Invite+You;All+on+16th+August;As+they+celebrate+dowry+payment+event;At+Nthuluni+village;Machakos+County+in+Kenya🌎" alt="Typing Animation" />
 </h1>
 
 ---
@@ -23,7 +23,7 @@
 To all who contributed, financially, spiritually, and in every way.
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&lines=🌟+Celebrating+My+Parents;For+Their+Endless+Support!;📣+Brought+to+you+by+Makamesco+C.E.O;🙏+GOD+BLESS+YOU" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=5000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=900&lines=🌟+Celebrating+My+Parents;For+Their+Endless+Support!;📣+Brought+to+you+by+Makamesco+C.E.O;🙏+GOD+BLESS+YOU" alt="Typing Animation" />
 </h3>
 
 ---
